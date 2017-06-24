@@ -1,0 +1,2 @@
+# financial-freedomgq
+GitHub Pages
