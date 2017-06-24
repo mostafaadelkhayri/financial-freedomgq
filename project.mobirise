@@ -70,7 +70,7 @@
             }
           },
           "brand": "<a class=\"navbar-brand text-primary\" data-app-btn=\"true\" href=\"Welcome\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">financial-freedom.gq</a>",
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".navbar-nav .btn\" href=\"https://warriorplus.com/o2/a/fy75m/0\">Get It Now</a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".navbar-nav .btn\" href=\"https://warriorplus.com/o2/a/fy75m/0\" target=\"_blank\">Get It Now</a></li>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Welcome\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn-parent\"></span>Home</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Contact Us\"><span class=\"mbri-contact-form mbr-iconfont mbr-iconfont-btn-parent\"></span>Contact Us</a></li>"
         },
         {
@@ -202,7 +202,7 @@
             }
           },
           "brand": "<a class=\"navbar-brand text-primary\" data-app-btn=\"true\" href=\"Welcome\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">financial-freedom.gq</a>",
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".navbar-nav .btn\" href=\"https://warriorplus.com/o2/a/fy75m/0\">Get It Now</a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".navbar-nav .btn\" href=\"https://warriorplus.com/o2/a/fy75m/0\" target=\"_blank\">Get It Now</a></li>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Welcome\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn-parent\"></span>Home</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Contact Us\"><span class=\"mbri-contact-form mbr-iconfont mbr-iconfont-btn-parent\"></span>Contact Us</a></li>",
           "_styles": {
             ".navbar-toggler": {
@@ -243,7 +243,7 @@
             "showArrow": false
           },
           "title": "<a href=\"https://warriorplus.com/o2/a/fy75m/0\">Financial Freedom</a>",
-          "text": "We all search for freedom, now you can begin you first steps",
+          "text": "We all search for freedom, now you can begin your first steps",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://warriorplus.com/o2/a/fy75m/0\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Discover More</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"Contact Us\" data-toolbar=\"-mbrBtnMove\">Send Feedback</a>",
           "_styles": {
             "H1": {
@@ -380,7 +380,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2016&nbsp;<a href=\"Welcome\">financial-freedom.gq |</a>&nbsp;<a href=\"https://mobirise.com/\">Terms of Use</a>"
+          "text": "Copyright (c) 2016&nbsp;<a href=\"Welcome\">financial-freedom.gq |</a>&nbsp;<a href=\"Contact Us\">Terms of Use</a>"
         }
       ]
     }
